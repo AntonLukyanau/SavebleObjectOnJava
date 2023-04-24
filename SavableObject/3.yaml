@@ -1,0 +1,9 @@
+org.example.Person:
+  id: 3
+  firstName: Jane
+  lastName: Smith
+  address:
+    street: 5455 Apache Trail
+    city: Queen Creek
+    stateCode: AZ
+    postIndex: 85243

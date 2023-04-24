@@ -1,0 +1,8 @@
+org.example.Business:
+  id: 4
+  name: Alliance Reservations Network
+  address:
+    street: 5455 Apache Trail
+    city: Queen Creek
+    stateCode: AZ
+    postIndex: 85243
